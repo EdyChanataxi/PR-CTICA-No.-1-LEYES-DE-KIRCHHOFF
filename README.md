@@ -1,3 +1,3 @@
-informe 1
-resistencias
+#informe 1 
+#resistencias
 calculos de resistencias 

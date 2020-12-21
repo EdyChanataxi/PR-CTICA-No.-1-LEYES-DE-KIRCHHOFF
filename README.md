@@ -16,3 +16,4 @@
 
 2. MARCO TEORICO
 
+![.](KIRCHHOFF.png)

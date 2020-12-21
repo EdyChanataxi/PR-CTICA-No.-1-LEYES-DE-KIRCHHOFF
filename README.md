@@ -16,4 +16,4 @@
 
 2. MARCO TEORICO
 
-![.](KIRCHHOFF.png)
+![.](carpeta/KIRCHHOFF.png)

@@ -16,4 +16,3 @@
 
 2. MARCO TEORICO
 
-![.]https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/4_bit_counter.svg/1200px-4_bit_counter.svg.png

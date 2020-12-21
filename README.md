@@ -15,4 +15,5 @@
 - Aclarar la utilizacin del multimetro al momento de medir la corriente y el voltaje en un circuito.
 
 2. MARCO TEORICO
-¡[.]https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/4_bit_counter.svg/1200px-4_bit_counter.svg.png
+
+![.]https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/4_bit_counter.svg/1200px-4_bit_counter.svg.png

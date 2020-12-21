@@ -14,3 +14,4 @@
 - Aclarar la utilizacin del multimetro al momento de medir la corriente y el voltaje en un circuito.
 
 2. MARCO TEORICO 
+

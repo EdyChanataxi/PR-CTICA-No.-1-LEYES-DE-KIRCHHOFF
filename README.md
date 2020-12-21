@@ -1,11 +1,13 @@
 # PRACTICA-No.-1-LEYES-DE-KIRCHHOFF
 # Informe 
 
-1. OBJETIVO GENERAL
+1. OBJETIVOS 
 
-Adaptar un  diagrama electrico a un prototipo virtual mediante el uso de Tinkercad para comprender de mejor manera como se aplican las leyes de Kirchhoff en un circuito electrico.
+1.1 OBJETIVO GENERAL
 
-2. OBJETIVO ESPECIFICO
+- Adaptar un  diagrama electrico a un prototipo virtual mediante el uso de Tinkercad para comprender de mejor manera como se aplican las leyes de Kirchhoff en un circuito electrico.
+
+ 1.2OBJETIVO ESPECIFICO
 
 - Calcular la intensidad de corriente y el voltaje que atraviesa por el circuito mediante las leyes de Kirchhoff.
 - Diferenciar los resultados obtenidos analiticamente y mediante el simulador Tinkercad para poder detenerminar cual es el porsentaje de error.

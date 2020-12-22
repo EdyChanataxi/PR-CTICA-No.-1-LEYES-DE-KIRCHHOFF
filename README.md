@@ -56,6 +56,4 @@ Para medir la intensidad es necesario hacerlo  en serio, caso contrario no calcu
 
 Las leyes de Kirchhoff. (2019). Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws#:~:text=Ley%20de%20voltaje%20de%20Kirchhoff,malla%20es%20igual%20a%20cero.&text=donde%20n%20es%20el%20n%C3%BAmero,los%20componentes%20en%20la%20malla.&text=Si%20caminas%20alrededor%20de%20la,malla%20es%20igual%20a%20cero.
 
-Centro Estudios Servantinos. (2017). Centro Estudios Cervantinos. https://www.centroestudioscervantinos.es/leyes-de-kirchhoff/
-
-
+R. (2019, 27 mayo). ▷ ¿Cuáles son las Leyes de Kirchhoff? Centro Estudios Cervantinos. https://www.centroestudioscervantinos.es/leyes-de-kirchhoff/

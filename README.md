@@ -21,7 +21,7 @@
 
 3. DIAGRAMAS
 
-![.](Imagenes/circuito resistivo mixtoo.png)
+![.](Imagenes/circuito.png)
 
 4. LISTA DE COMPONENTES
 

@@ -45,6 +45,16 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 Estamos ante un circuito resistivo mixto en el que se encuentran conectadas 5 resistencias en 2 diferentes configuraciones, en serie y en paralelo, en dicho circuito se puede calcular la intensidad y el voltaje utilizando las 2 leyes de Kirchhoff, se lo puede analizar al circuito de forma general para calcular el Vt y la It pero también se lo puede hacer de forma individual para calcular el V y la I en un punto exacto del circuito. Para el voltaje de debe analizar cada malla que haya en el circuito, aquí se encuentran las resistencias que fueron conectadas en serie y para la intensidad se debe analizar cada nodo que se forme en el circuito donde se encuentran las resistencias conectadas en paralelo. Este análisis es muy detallado y nos permite evidenciar el comportamiento del voltaje y la intensidad cuando se conecta un circuito mixto.
 
+Tabla 1.1. Resultados obtenidos de voltaje y corriente 
+
+![.](Imagenes/tabla1.jpeg)
+
+Tabla 1.2. verificacion de la LVK
+
+![.](Imagenes/tabla2.jpeg)
+
+Con los resultados obtenidos queda demostrada la veracidad del la LVK , debido a que se lo realizo en un simulador on-line el margen de error es minimo 
+
 6. CONCLUCION 
 
 - Gracias a la aplicacon de tinkercad se pudo pasar de un modelo esquematico a uno un poco mas real donde se logro observar cual es la manera correcta de conectar un circuito mixto y a su vez nos permitio comprobar el funcionamiento de las leyes de Kirchhoff de una manera mas real.

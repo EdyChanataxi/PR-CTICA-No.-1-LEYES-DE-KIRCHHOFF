@@ -54,5 +54,8 @@ Para medir la intensidad es necesario hacerlo  en serio, caso contrario no calcu
 - Al ser tinkercad una plataforma on-line es poco probable tener un margen de error si tomamos en cuenta los valores medidos y los calculados, podria haber un porsentaje de error pero seria minimo, esta variacion en los calculos se los puede evidenciar de mejor manera cuando se arme el circuito de forma fisica.
 9. BIBLIOGRAFIA
 
+Las leyes de Kirchhoff. (2019). Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws#:~:text=Ley%20de%20voltaje%20de%20Kirchhoff,malla%20es%20igual%20a%20cero.&text=donde%20n%20es%20el%20n%C3%BAmero,los%20componentes%20en%20la%20malla.&text=Si%20caminas%20alrededor%20de%20la,malla%20es%20igual%20a%20cero.
+
+Centro Estudios Servantinos. (2017). Centro Estudios Cervantinos. https://www.centroestudioscervantinos.es/leyes-de-kirchhoff/
 
 

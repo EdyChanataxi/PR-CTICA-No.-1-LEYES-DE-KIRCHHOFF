@@ -49,11 +49,19 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente
 
 ![.](Imagenes/tabla1.jpeg)
 
-Tabla 1.2. verificacion de la LVK
+Tabla 1.2. verificacin de la LVK
 
 ![.](Imagenes/tabla2.jpeg)
 
 Con los resultados obtenidos queda demostrada la veracidad del la LVK , debido a que se lo realizo en un simulador on-line el margen de error es minimo 
+
+Tabla 1.3. Verificacion de la LCK
+
+![.](Imagenes/tabla3.jpeg)
+
+Como se  observa en los datos, en el primer nodo la It es de 2.05, I2 1.09, I3 0,946; si tomamos la definicion de la LCK que enuncia que la I de entrada es igual a la I de salida vemos que se cumple ya que al sumar I2+I3 nos da 2.036, claro que hay un pequeño margen de error que de debe a las aproximaciones de los decimales.
+
+Los calculos obtenidos nos deja demostrado que las 2 leyes de Kirchhof se cumplen en este circuito mixto y que existe un minimo margen de error debido a que se lo realizo en un simulador on-line, si se lo realizara de forma fisica el porcentaje de error seria un poco mayor.
 
 6. CONCLUCION 
 

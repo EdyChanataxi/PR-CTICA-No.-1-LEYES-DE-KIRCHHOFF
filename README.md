@@ -44,6 +44,9 @@
 
 8. CONCLUCION 
 
+- Gracias a la aplicacon de tinkercad se pudo pasar de un modelo esquematico a uno un poco mas real donde se logro observar cual es la manera correcta de conectar un circuito mixto y a su vez nos permitio comprobar el funcionamiento de las leyes de Kirchhoff de una manera mas real.
+- El multimetro fue una herramienta de gran utilidad al momento de medir la intensidad y el voltaje que pasa por el circuito , tomando en cuenta que para medir las resistencias se debe realizar en serie.
+- Al ser tinkercad una plataforma on-line es poco probable tener un margen de error si tomamos en cuenta los valores medidos y los calculados, podria haber un porsentaje de error pero seria minimo, esta variacion en los calculos se los puede evidenciar de mejor manera cuando se arme el circuito de forma fisica.
 9. BIBLIOGRAFIA
 
 

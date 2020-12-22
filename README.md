@@ -23,6 +23,10 @@
 
 ![.](Imagenes/circuito.png)
 
+Lo que haremos es pasar del diagrama electrico a al protoboard de forma firtual.
+
+![.](Imagenes/diagrama.png)
+
 4. LISTA DE COMPONENTES
 
 | CANTIDAD|MATERIAL O EQUIPO|

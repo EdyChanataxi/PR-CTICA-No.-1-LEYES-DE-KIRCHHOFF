@@ -25,7 +25,7 @@
 
 Lo que haremos es pasar del diagrama electrico a al protoboard de forma firtual.
 
-![.](Imagenes/diagrama.png)
+![.](Imagenes/diagramaa.png)
 
 4. LISTA DE COMPONENTES
 

@@ -21,9 +21,10 @@
 
 3. DIAGRAMAS
 
-![.](Imagenes/circuito resistivo mixto.png)
+![.](Imagenes/circuito resistivo mixtoo.png)
 
 Lo que realizaremos a continuacion es pasar del diagrama electrico a el protoboard
+
 4. LISTA DE COMPONENTES
 
 | CANTIDAD|MATERIAL O EQUIPO|

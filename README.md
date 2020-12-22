@@ -25,7 +25,9 @@
 4. LISTA DE COMPONENTES
 
 | CANTIDAD||MATERIAL O EQUIPO|
+
 | ----- | ---- |
+
 | 1 ||Fuente de voltaje de C.D.|
 
 5. EXPLICACION 

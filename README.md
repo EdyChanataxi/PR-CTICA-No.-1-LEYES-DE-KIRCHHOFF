@@ -34,8 +34,13 @@
 |1|Resistor de 3.9 kΩ|
 |1|Protoboard|
 
+Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
+
 5. EXPLICACION 
 
+Una vez que pasamos del diagrama a l protoboard en tinkercad procedemos a la medicion de la intensidad y el voltaje de cada resistencia .
+
+Para medir la intensidad es necesario hacerlo  en serio, caso contrario no calculariamos nada
 
 6. MANUAL DE USUARIO
 

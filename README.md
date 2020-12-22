@@ -17,7 +17,7 @@
 2. MARCO TEORICO
 
 ![.](Imagenes/KIRCHHOFF.png)
-![.](carpeta/leyes_1.gif)
+![.](Imagenes/leyes_1.gif)
 
 3. DIAGRAMAS
 
